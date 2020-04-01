@@ -1,4 +1,4 @@
 # hello-world
-try out github
+try github
 make a change
 this is a change
